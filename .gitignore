@@ -1,0 +1,7 @@
+.idea
+/cmake-build-debug/
+.clang-format
+CMakeLists.txt
+time_shm.exe
+time_shm_output.txt
+time
